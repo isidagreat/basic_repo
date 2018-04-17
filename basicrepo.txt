@@ -1,0 +1,8 @@
+Cd desktop
+Mkdir basic_repo
+Touch index.html aboutMe.txt style.css
+Nano aboutMe.txt
+Nano index.html
+Git init
+Git add .
+Git commit -m "initial commit"
