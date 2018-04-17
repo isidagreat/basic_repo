@@ -6,3 +6,6 @@ Nano index.html
 Git init
 Git add .
 Git commit -m "initial commit"
+git remote add origin https://github.com/isidagreat/basic_repo.git
+git push -u origin master
+Nano index.html
